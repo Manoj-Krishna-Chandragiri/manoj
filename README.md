@@ -40,8 +40,8 @@ Technologies used: **Power BI**, **Excel**, **Kaggle**
 - **React.js** and **Node.js** for full-stack web development
 
 ## 📫 How to reach me:
-- **Email**: [your-email@example.com](mailto:your-email@example.com)
-- **LinkedIn**: [Manoj Krishna](https://www.linkedin.com/in/your-linkedin)
-- **GitHub**: [@your-username](https://github.com/your-username)
+- **Email**: 22bq1a4225@vvit.net or manojkrishnachandragiri@gmail.com
+- **LinkedIn**: https://www.linkedin.com/in/manoj-krishna-chandragiri/
+- **GitHub**: Manoj-Krishna-Chandragiri
 
 ### Let's collaborate on exciting projects and explore the world of technology! 🚀
